@@ -32,6 +32,7 @@ dependencies = [
  "futures-intrusive",
  "heapless",
  "log",
+ "serde",
  "uuid",
 ]
 
